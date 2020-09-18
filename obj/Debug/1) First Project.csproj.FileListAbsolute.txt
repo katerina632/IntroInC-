@@ -1,0 +1,6 @@
+F:\ITStep\2 курс\C#\Класна робота\1) First Project\bin\Debug\1) First Project.exe.config
+F:\ITStep\2 курс\C#\Класна робота\1) First Project\bin\Debug\1) First Project.exe
+F:\ITStep\2 курс\C#\Класна робота\1) First Project\bin\Debug\1) First Project.pdb
+F:\ITStep\2 курс\C#\Класна робота\1) First Project\obj\Debug\1) First Project.csprojAssemblyReference.cache
+F:\ITStep\2 курс\C#\Класна робота\1) First Project\obj\Debug\1) First Project.exe
+F:\ITStep\2 курс\C#\Класна робота\1) First Project\obj\Debug\1) First Project.pdb
